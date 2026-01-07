@@ -10,16 +10,12 @@
   <img src="https://img.shields.io/badge/Progress-25-brightgreen" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rust-lang/ferris-art/master/ferris_waving.svg" width="180" alt="Ferris Crab"/>
-</p>
+
 
 ---
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rust-lang/ferris-art/master/ferris_clap.svg" width="260" alt="Ferris Logo"/>
-</p>
+
 
 ---
 
